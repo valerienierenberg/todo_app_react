@@ -1,6 +1,6 @@
 # To Do List App
 
-### This project is a deployed ReactJS To Do List App
+### This project is a deployed ReactJS To Do List App. [Visit the App to make your own to-do list here](https://valerienierenberg.github.io/todo_app_react/).
 
 #### Users can:
 - Add items to their to-do list
@@ -11,13 +11,13 @@
     - Completed
     - Uncompleted
 
-#### Made with
+#### Made with:
 - React JS
 - Javascript
 - HTML
 - CSS
 
-#### What I've learned
+#### What I've learned:
 - Saving states (React's useState) and using that state to display desired UI content
 - Running functions as and when desired (React's useEffect)
 - Components
@@ -28,5 +28,4 @@
 ### Demo of my To Do App!
 
 
-#### Special Thanks
-[Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+#### Special Thanks [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
