@@ -26,6 +26,6 @@
 - This was my first complete React JS app, and I have certainly learned a lot :)
 
 ### Demo of my To Do App!
-
+![Gif of Todo List](./ReactToDoList.gif)
 
 #### Special Thanks [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
