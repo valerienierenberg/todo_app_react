@@ -1,6 +1,8 @@
 # To Do List App
 
-### This project is a deployed ReactJS To Do List App. [Visit the App to make your own to-do list here](https://valerienierenberg.github.io/todo_app_react/).
+### This project is a deployed ReactJS To Do List App.
+
+## [Visit my App to make your own to-do list here](https://valerienierenberg.github.io/todo_app_react/).
 
 #### Users can:
 - Add items to their to-do list
